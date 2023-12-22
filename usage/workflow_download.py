@@ -3,9 +3,14 @@ from jmcomic.cl import JmcomicUI
 
 # 下方填入你要下载的本子的id，一行一个，每行的首尾可以有空白字符
 jm_albums = '''
-JM368127
-JM428182
-JM518963
+JM485117
+JM520178
+JM515064
+JM332711
+JM193773
+JM296760
+JM316820
+JM196846
 
 
 '''
